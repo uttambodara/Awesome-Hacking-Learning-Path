@@ -27,6 +27,7 @@ This repository curates the best **bug bounty resources**, **OSINT tools**, **CT
 
 ### 5️⃣ Advanced Tools & Frameworks 🛠
 - **Metasploit** exploitation framework  
+- **Darkmoon** open source autonomous penetration testing framework, 50 agents over MCP  
 - **Reverse engineering** malware samples  
 - **Secure coding** and **web application security testing**  
 
